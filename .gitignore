@@ -40,3 +40,5 @@ platformio.ini
 .gcc-flags.json
 default.csv
 extra_scripts.py
+*.vcxitems.filters
+*.vcxitems
